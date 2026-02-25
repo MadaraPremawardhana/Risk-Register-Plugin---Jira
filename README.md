@@ -65,7 +65,7 @@ Once a task is saved, a risk badge automatically appears when you visit that Jir
 
 ## 🔧 Configuration Options
 
-Get your free Gemini key (2 minutes):
+Get your free Gemini key:
 
 Go to aistudio.google.com and sign in with your Google account
 Click Get API Key → Create API key
@@ -73,12 +73,7 @@ Copy the key — it starts with AIza...
 
 Update the extension:
 
-Extract the new zip and replace the old folder
-Go to edge://extensions/ → click the reload button on RiskRadar
-Open the extension → ⚙ Config → paste your AIza... key → Save Configuration
-Navigate to a Jira issue and click Analyze
-
-| Risk Framework | Standard, ISO 31000, or PMBOK |
+Risk Framework - Standard, ISO 31000, or PMBOK 
 
 ---
 
